@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zchase/deployNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zchase/deployNode/issues"
+  },
+  "homepage": "https://github.com/zchase/deployNode#readme",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
